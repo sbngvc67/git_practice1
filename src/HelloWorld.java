@@ -5,6 +5,8 @@ public class HelloWorld {
 
         System.out.println("hELLO WORLD");
 
+        System.out.println("see the window");
+
     }
 
     // Doing some work here (you can type anything you want)
