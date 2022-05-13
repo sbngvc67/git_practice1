@@ -1,8 +1,10 @@
 public class HelloWorld {
     public static void main(String[] args) {
 
+        System.out.println("created repository");
 
         System.out.println("hELLO WORLD");
+
     }
 
     // Doing some work here (you can type anything you want)
